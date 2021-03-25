@@ -121,5 +121,18 @@ footer p {
         width: 100%;
         height: auto;
     }
-    
+    main h1 {
+        margin-bottom: 15px;
+    }
+
+    .HTML,
+    .CSS,
+    .JavaScript,
+    .JQuery,
+    .Photoshop,
+    .Illustrator {
+        width: 100%
+    }
+
+
 }
